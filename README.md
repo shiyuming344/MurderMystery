@@ -6,4 +6,4 @@
   spring boot 2.7.12</br>
   mybatis plus 3.4.3.4</br>
   mysql 8.0.32</br>
-  spring-security</br>
+  spring security</br>
